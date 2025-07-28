@@ -15,7 +15,7 @@ Used `SelectKBest` and correlation heatmap to identify top features:
 - R² Score
 
 ## 📓 Notebook
-The main notebook is available here: [`house_price_prediction.ipynb`](./house_price_prediction.ipynb)
+The main notebook is available here: [`FB.ipynb`](./FB.ipynb)
 
  📦 Requirements
 
