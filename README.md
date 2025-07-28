@@ -15,7 +15,7 @@ Used `SelectKBest` and correlation heatmap to identify top features:
 - R² Score
 
 ## 📓 Notebook
-The main notebook is available here: [`FB.ipynb`](./FB.ipynb)
+The main notebook is available here: [`FP.ipynb`](./FP.ipynb)
 
  📦 Requirements
 
